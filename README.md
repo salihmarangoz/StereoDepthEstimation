@@ -3,6 +3,7 @@
 **Table of Contents**
 
 * [labvision_stereo_depth_estimation](#labvision_stereo_depth_estimation)
+   * [The Project Notebook and Report](#the-project-notebook-and-report)
    * [Before Starting](#before-starting)
       * [Inspection of .pfm/.pgm Files](#inspection-of-pfmpgm-files)
       * [Solving Problems with Webp/Anaconda](#solving-problems-with-webpanaconda)
