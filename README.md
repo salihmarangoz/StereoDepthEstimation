@@ -21,6 +21,11 @@ Please view this file with a markdown editor/reader (e.g. [Typora](https://typor
 
 ![fullpsmnet-outputs](plots/fullpsmnet-outputs.svg)
 
+## The Project Notebook and Report
+
+- The project notebook can be viewed directly (without Github, only HTML) [here](https://salihmarangoz.github.io/StereoDepthEstimation/project_notebook.html) and all experiments output [here](https://salihmarangoz.github.io/StereoDepthEstimation/all_experiments.html).
+- The project report (PDF) can be downloaded/viewed [here](https://salihmarangoz.github.io/StereoDepthEstimation/Lab_Vision_Report.pdf).
+
 
 
 ## Before Starting
@@ -77,7 +82,7 @@ test_image
 
 We added `environment.yml`for Anaconda installation. We had to use PyTorch-Nightly to utilize RTX3090 in the laboratory. Specified PyTorch-Nightly version may not be available so try using version `1.10.0` or `1.9.1`.  
 
-We described where to put dataset folder in `project_report.ipynb`.
+We described where to put dataset folder in `project_notebook.ipynb`.
 
 
 
